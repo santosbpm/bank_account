@@ -1,0 +1,16 @@
+/home/marcos/Documents/work/bank_account/bin/Debug/net5.0/bank_account
+/home/marcos/Documents/work/bank_account/bin/Debug/net5.0/bank_account.deps.json
+/home/marcos/Documents/work/bank_account/bin/Debug/net5.0/bank_account.runtimeconfig.json
+/home/marcos/Documents/work/bank_account/bin/Debug/net5.0/bank_account.runtimeconfig.dev.json
+/home/marcos/Documents/work/bank_account/bin/Debug/net5.0/bank_account.dll
+/home/marcos/Documents/work/bank_account/bin/Debug/net5.0/ref/bank_account.dll
+/home/marcos/Documents/work/bank_account/bin/Debug/net5.0/bank_account.pdb
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/bank_account.csprojAssemblyReference.cache
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/bank_account.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/bank_account.AssemblyInfoInputs.cache
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/bank_account.AssemblyInfo.cs
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/bank_account.csproj.CoreCompileInputs.cache
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/bank_account.dll
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/ref/bank_account.dll
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/bank_account.pdb
+/home/marcos/Documents/work/bank_account/obj/Debug/net5.0/bank_account.genruntimeconfig.cache

@@ -6,7 +6,9 @@ namespace bank_account
     {
         static void Main(string[] args)
         {
-            Conta minhaConta = new Conta.Conta();
+            Conta minhaConta = new Conta(TipoConta.PessoaFisica, 0, 0, "Marcos");
+
+            Console.WriteLine(minhaConta.ToString());
         }
     }
 }
